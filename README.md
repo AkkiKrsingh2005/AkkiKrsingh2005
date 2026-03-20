@@ -1,5 +1,10 @@
-## Hi there 👋
 
+Hi, I'm an Aspiring AI/ML Engineer 👋
+
+- Currently learning Machine Learning and Data Analysis
+- Skilled in Python, Pandas, NumPy, and DSA
+- Interested in solving real-world problems using AI
+- Looking for AI/ML internship opportunities
 <!--
 **AkkiKrsingh2005/AkkiKrsingh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
